@@ -30,9 +30,9 @@ ___
 - Some pieces work well together while others are completely incompatible
 - Decide the CPU or motherboard at the beginning because usually they are dependent
 
-**Scenario:**6K resolution 6144 x 3072, a very common capture rate in the industry these days, it has 18,874,368 pixels per frame.Exporting time or render time will be very long with most computer.
+**Scenario:** 6K resolution 6144 x 3072, a very common capture rate in the industry these days, it has 18,874,368 pixels per frame.Exporting time or render time will be very long with most computer.
 
-**Tools:**These tools maybe used when you build your own machine.
+**Tools:** These tools maybe used when you build your own machine.
 
 Benchmarks
 
